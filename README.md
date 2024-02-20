@@ -1,0 +1,2 @@
+Escreva uma função que recebe um array e retorna outro array com as posições invertidas em relação ao original. Lembrando que o array original não pode ser alterado.
+Só podem ser utilizadas estruturas de repetição simples, como for, while, etc.
